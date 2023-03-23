@@ -8,6 +8,11 @@ I was eager to overcome this challenge in which I was requested to refactor and 
 This project was built to showcase my skills in refactoring, identifying invalid lines of code while replacing non-semantic &lt;div&gt; tags with semantic html5 tags.
 My project ultimately educates any like-minded peers on how to refactor, implement semantic tags, and to enhance any site's ranking with satisfied accessibility standards on common search engines.
 I was able to learn how to be more efficient with setting up style sheets to be organized to prevent headaches in the future when I may return to borrow or polish my skills.
+
+<p align="center">
+  <img alt="Horiseon Site" src="https://drive.google.com/file/d/10KaW3Z5IF7sqL73dOPelr1-4EQwpRkvo/view">
+</p>
+
 <!-- - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
@@ -50,7 +55,9 @@ If you followed tutorials, include links to those here as well. -->
 
 ## License
 
-Refer to LICENSE in Repository
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the MIT license.
 
 ---
 
