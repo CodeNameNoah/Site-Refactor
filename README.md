@@ -1,4 +1,4 @@
-# Site-Refactoring
+# Site Refactoring
 
 ## Description
 
@@ -8,8 +8,13 @@ I was eager to overcome this challenge in which I was requested to refactor and 
 This project was built to showcase my skills in refactoring, identifying invalid lines of code while replacing non-semantic &lt;div&gt; tags with semantic html5 tags.
 My project ultimately educates any like-minded peers on how to refactor, implement semantic tags, and to enhance any site's ranking with satisfied accessibility standards on common search engines.
 I was able to learn how to be more efficient with setting up style sheets to be organized to prevent headaches in the future when I may return to borrow or polish my skills.
+---
+### Take A Look At My Website!
 
 ![HorisonMini](https://user-images.githubusercontent.com/127361736/227173372-a341a569-569f-4c49-91fc-b93d82c8b0c9.gif)
+
+---
+If you noticed, you can click on links to position your view onto the respective sections.
 
 <!-- - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
