@@ -36,13 +36,13 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* merged two elements which shared common properties */
 a, p {
     color: #ffffff;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 20px;
 }
-
+/* renamed .hero to .large-banner */
 .large-banner {
     height: 800px;
     width: 100%;
@@ -91,7 +91,7 @@ a, p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Refactored three selector statements since they all shared the same properties */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,6 +118,14 @@ a, p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
+}
+/* added to restore original fonts to the legal footer */
+.legal {
+    font-size: 16px;
+}
+/* added unique identifer selector to help make side section more accessible */
+#benefits {
+    height: 939px;
 }
