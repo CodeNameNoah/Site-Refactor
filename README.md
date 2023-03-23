@@ -13,7 +13,7 @@ I was able to learn how to be more efficient with setting up style sheets to be 
 - What problem does it solve?
 - What did you learn? -->
 
-## Table of Contents
+<!-- ## Table of Contents -->
 
 <!-- If your README is long, add a table of contents to make it easy for users to find what they need. -->
 
