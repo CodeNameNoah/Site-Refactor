@@ -1,4 +1,4 @@
-# <Site-Refactoring>
+# Site-Refactoring
 
 ## Description
 
@@ -17,10 +17,10 @@ I was able to learn how to be more efficient with setting up style sheets to be 
 
 <!-- If your README is long, add a table of contents to make it easy for users to find what they need. -->
 
-- [Installation](#installation)
+<!-- - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+- [License](#license) -->
 
 ## Installation
 
@@ -39,6 +39,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ``` -->
 
 ## Credits
+
+N/A
 
 <!-- List your collaborators, if any, with links to their GitHub profiles.
 
