@@ -9,9 +9,13 @@ This project was built to showcase my skills in refactoring, identifying invalid
 My project ultimately educates any like-minded peers on how to refactor, implement semantic tags, and to enhance any site's ranking with satisfied accessibility standards on common search engines.
 I was able to learn how to be more efficient with setting up style sheets to be organized to prevent headaches in the future when I may return to borrow or polish my skills.
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Horiseon Site" src="https://drive.google.com/file/d/10KaW3Z5IF7sqL73dOPelr1-4EQwpRkvo/view">
-</p>
+</p> -->
+
+![Alt text](https://github.com/CodeNameNoah/Site-Refactor/blob/main/assets/Horiseon%20-%20A%20Marketing%20Agency.gif)
+
+
 
 <!-- - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
