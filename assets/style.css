@@ -82,18 +82,18 @@ p {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/* Merged three selector statements since they all shared the same properties, help reduce clutter */
 .benefits h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* Merged three selector statements since they all shared the same properties, helps reduce clutter */
 .benefits img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-/* Refactored three selector statements since they all shared the same properties */
+/* Merged three selector statements since they all shared the same properties, helps reduce clutter */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -105,10 +105,12 @@ p {
   color: #ffffff;
 }
 
+/* Merged three selector statements targetting class content since they all shared the same properties, helps reduce clutter/boost load times*/
 .content img {
   max-height: 200px;
 }
 
+/* Merged three selector statements targetting class content since they all shared the same properties, helps reduce clutter/boost load times*/
 .content h2 {
   margin-bottom: 20px;
   font-size: 36px;
